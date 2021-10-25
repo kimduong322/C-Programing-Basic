@@ -1,0 +1,5 @@
+20205075	 DaoKimDuong 8.6
+20204927	 NguyenVanA 7.5
+20200001	 TranVanB 9.0
+20201111	 NguyenThuTrang 10.0
+20207777	 TranHuuDo 4.0
