@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <a><img url="https://drive.google.com/file/d/1-RZB9LyXY-UKvcshgenM0MnaqaoaRy4r/view?usp=sharing"></img></a>
+    <div style="width:50px;height:50px;padding-bottom:76%;position:relative;"><iframe src="https://giphy.com/embed/W0VuY0dTxH9L6vLUJ2" width="50px" height="50px" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/justin-transparent-W0VuY0dTxH9L6vLUJ2">via GIPHY</a></p>
     <h1> C-Programing-Basic</h1>
     <h2>C Basic Lab Term - Ha Noi University Of Technology & Sciencies</h2>
     <h2> Lecturer: PhD. Tran Hong Viet</h2>
