@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <a href="https://drive.google.com/file/d/1-RZB9LyXY-UKvcshgenM0MnaqaoaRy4r/view?usp=sharing"></a>
+    <a><img url="https://drive.google.com/file/d/1-RZB9LyXY-UKvcshgenM0MnaqaoaRy4r/view?usp=sharing"></img></a>
     <h1> C-Programing-Basic</h1>
     <h2>C Basic Lab Term - Ha Noi University Of Technology & Sciencies</h2>
     <h2> Lecturer: PhD. Tran Hong Viet</h2>
@@ -17,6 +17,6 @@
     <h4>5. SORT (Seclection, Insertion, Buble, Heap, Merge, Quick )</h4>
     <h4>6. SEARCHING</h4>
     <h4>7. STRING PATTERN MATCHING </h4>
-    <h4>HASH TABLE</h4>
+    <h4>8. HASH TABLE</h4>
 </body>
 </html>
