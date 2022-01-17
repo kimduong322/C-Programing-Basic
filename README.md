@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 </head>
 <body>
     <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
@@ -21,3 +20,4 @@
     <h4>HASH TABLE</h4>
 </body>
 </html>
+[dog.zip](https://github.com/kimduong322/C-Programing-Basic/files/7881393/dog.zip)
