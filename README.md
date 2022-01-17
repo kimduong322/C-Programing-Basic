@@ -22,6 +22,6 @@
     
     
     
-    <h6><img align="left" alt="GIF" src="https://media.giphy.com/media/3ov9jNuZHW8MYPNi2k/giphy.gif" width="40"/> <strong> <i>Happy Coding !</i></strong> </h6>
+   <img align="left" alt="GIF" src="https://media.giphy.com/media/3ov9jNuZHW8MYPNi2k/giphy.gif" width="40"/> <strong> <i>Happy Coding !</i></strong> 
 </body>
 </html>
