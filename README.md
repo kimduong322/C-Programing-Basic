@@ -16,7 +16,7 @@
     <h4>5. SORT (Seclection, Insertion, Buble, Heap, Merge, Quick )</h4>
     <h4>6. SEARCHING</h4>
     <h4>7. STRING PATTERN MATCHING </h4>
-    <h4>HASH TABLE</h4>
+    <h4>8. HASH TABLE</h4>
     <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 </body>
 </html>
