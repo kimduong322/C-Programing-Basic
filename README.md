@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1> C-Programing-Basic</h1> <img src="https://media.giphy.com/media/W0VuY0dTxH9L6vLUJ2/giphy.gif" width="70">
+    <h1> C-Programing-Basic  <img src="https://media.giphy.com/media/W0VuY0dTxH9L6vLUJ2/giphy.gif" width="55"></h1>
     <h2>C Basic Lab Term - Ha Noi University Of Technology & Sciencies</h2>
     <h2> Lecturer: PhD. Tran Hong Viet</h2>
     <h4>1. FILE</h4>
