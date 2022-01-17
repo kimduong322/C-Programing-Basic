@@ -22,6 +22,6 @@
     
     
     
-    <img src="https://media.giphy.com/media/3ov9jNuZHW8MYPNi2k/giphy.gif" width= "55"/> Happy Coding !
+    <img align="left" alt="GIF" src="https://media.giphy.com/media/3ov9jNuZHW8MYPNi2k/giphy.gif" width="55" border-radius = "50%"  />
 </body>
 </html>
