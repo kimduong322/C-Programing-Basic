@@ -9,9 +9,9 @@
     <h1>C-Programing-Basic  <img src="https://media.giphy.com/media/5MK2xrwtg1zTjr2Ebk/giphy.gif" width="53"></h1>
     <h2>C Basic Lab Term - Ha Noi University Of Technology & Sciencies</h2>
     <h2> Lecturer: PhD. Tran Hong Viet</h2>
+    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
     <h4>1.🤷‍♀️ FILE</h4>
     <h4>2.🪐 LINKED LIST</h4>
-    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
     <h4>3.🍔 STACK & QUEUE</h4>
     <h4>4.🌴 TREE</h4>
     <h4>5.🥣 SORT (Seclection, Insertion, Buble, Heap, Merge, Quick )</h4>
@@ -20,6 +20,8 @@
     <h4>8.💛 HASH TABLE</h4>
     
     
-    <img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width= "55"/> Happy Coding !
+    
+    
+    <img src="https://media.giphy.com/media/3ov9jNuZHW8MYPNi2k/giphy.gif" width= "55"/> Happy Coding !
 </body>
 </html>
