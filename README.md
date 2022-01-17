@@ -18,5 +18,8 @@
     <h4>6.🍇 SEARCHING</h4>
     <h4>7.🌾 STRING PATTERN MATCHING </h4>
     <h4>8.💛 HASH TABLE</h4>
+    
+    
+    <div><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width= "55"></img> Happy Coding !</div>
 </body>
 </html>
