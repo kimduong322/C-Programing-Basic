@@ -18,6 +18,6 @@
     <h4>6.🍇 SEARCHING</h4>
     <h4>7.🌾 STRING PATTERN MATCHING </h4>
     <h4>8.💛 HASH TABLE</h4>
-    <div ><img align="left" alt="GIF" src="https://media.giphy.com/media/3ov9jNuZHW8MYPNi2k/giphy.gif" width="50" boder-radius="50"/> <strong>Happy Coding !</strong> </div>
+    <h6><img align="left" alt="GIF" src="https://media.giphy.com/media/3ov9jNuZHW8MYPNi2k/giphy.gif" width="40"/> <strong>Happy Coding !</strong> </h6>
 </body>
 </html>
