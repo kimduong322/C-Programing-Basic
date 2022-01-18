@@ -9,7 +9,7 @@
     <h1>C-Programing-Basic  <img src="https://media.giphy.com/media/5MK2xrwtg1zTjr2Ebk/giphy.gif" width="53"></h1>
     <h2>C Basic Lab Term - Ha Noi University of Science and Technology</h2>
     <h2> Lecturer: PhD. Tran Hong Viet</h2>
-    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="30%" />
     <h4>1.🤷‍♀️ FILE</h4>
     <h4>2.🪐 LINKED LIST</h4>
     <h4>3.🍔 STACK & QUEUE</h4>
