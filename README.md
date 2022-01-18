@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>C-Programing-Basic  <img src="https://media.giphy.com/media/5MK2xrwtg1zTjr2Ebk/giphy.gif" width="53"></h1>
-    <h2>C Basic Lab Term - Ha Noi University Of Technology & Sciencies</h2>
+    <h2>C Basic Lab Term - Ha Noi University Of Technology & Sciences</h2>
     <h2> Lecturer: PhD. Tran Hong Viet</h2>
     <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
     <h4>1.🤷‍♀️ FILE</h4>
