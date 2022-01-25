@@ -115,6 +115,8 @@ void insert_hT(node x, htNode hastTable[]) {
 int main() {
     readfile("Input.txt", arr);
     _init(hastTable);
-    insert_hT(arr[0], hastTable);
+    for(int i = 0; i < 10; i++) {
+	    insert_hT(arr[i], hastTable);
+    }
     return 0;
 }
